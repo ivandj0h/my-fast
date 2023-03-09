@@ -1,35 +1,21 @@
 # MyFast
 
+`This Project still On going Development, kindly wait for the next update`
+
 ## Description
 This is a Simple `Microservices` Project using `FastAPI` on the Backend
 and `React` on the Frontend.
 
 ## Installation
-### Backend
+### Clone the repository
 ```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-### Frontend
-```bash
-cd frontend
-npm install
-npm start
+git clone https://github.com/ivandi1980/my-fast.git
 ```
 
 ## Usage
-### Backend
 ```bash
 # Run the server
 uvicorn main:app --reload
-```
-
-### Frontend
-```bash
-# Run the server
-npm start
 ```
 
 ## Contributing
